@@ -18,6 +18,10 @@ There are three egg types: Bronze, Silver, Gold each worth 10, 25 and 50 points.
 There are two stages: Day and Night.
 Controls are displayed in-game.
 
+## To Build
+I am new to Github, so I do not know if the project can be built because I am unsure if the project was uploaded correctly, but simply save it and open it in Unity as a Unity Project.
+Otherwise, check out the folder GameBuild. It contains an .exe of the built game (Design1_FPSGaneV2.exe)
+
 ## Resources
 - Weapon Mesh: Justin Nguyen (me)
 - Eggs: Justin Nguyen (me)
